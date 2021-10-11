@@ -6,6 +6,7 @@ New client 127.0.0.1 is connection!
 [0] -> 127.0.0.1
 Please select a client!
 client num:0
+
 ================================================================================
                     Client Shell from addr: 127.0.0.1
 !photograph --> 摄像头照片
